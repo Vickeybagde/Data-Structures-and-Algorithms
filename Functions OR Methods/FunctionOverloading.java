@@ -1,5 +1,5 @@
 public class FunctionOverloading {
-    
+    // function overloading me same naam hota hai bas different oarameters hote hai
     
     //sum of two num
     public static int sumof(int a, int b){
