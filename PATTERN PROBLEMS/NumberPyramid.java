@@ -16,5 +16,5 @@ public class NumberPyramid (int n) {
 }
 
 public static void main(String[] args) {
-    NumberPyramid(5);
+    System.out.println(NumberPyramid(5));;
 }
